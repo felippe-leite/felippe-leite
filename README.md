@@ -1,6 +1,6 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2000&pause=800&color=2496ED&center=true&vCenter=true&width=700&lines=FELIPPE+LEITE;BACKEND+DEVELOPER;Java+%E2%80%A2+Node.js+%E2%80%A2+TypeScript+%E2%80%A2+React)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=2000&pause=800&color=000000&center=true&vCenter=true&width=700&lines=FELIPPE+LEITE;BACKEND+DEVELOPER;Java+%E2%80%A2+Node.js+%E2%80%A2+TypeScript+%E2%80%A2+React)](https://git.io/typing-svg)
 
 🎓 Systems Analysis and Development student • 💻 Software Development Intern  
 🔐 Interested in Cyber Security and Secure Development

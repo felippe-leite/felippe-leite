@@ -1,1 +1,127 @@
+<svg width="100%" height="260" viewBox="0 0 1200 260"
+     xmlns="http://www.w3.org/2000/svg">
 
+  <rect width="1200" height="260" fill="#000000"/>
+
+  <style>
+    .name {
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 42px;
+      font-weight: 700;
+      fill: #ffffff;
+    }
+
+    .role {
+      font-family: Arial, Helvetica, sans-serif;
+      font-size: 22px;
+      font-weight: 600;
+      fill: #b3b3b3;
+      letter-spacing: 2px;
+    }
+
+    .tech {
+      font-family: "Courier New", monospace;
+      font-size: 22px;
+      font-weight: 600;
+      fill: #ffffff;
+    }
+
+    .tech1 {
+      animation: show1 12s infinite;
+    }
+
+    .tech2 {
+      animation: show2 12s infinite;
+    }
+
+    .tech3 {
+      animation: show3 12s infinite;
+    }
+
+    .tech4 {
+      animation: show4 12s infinite;
+    }
+
+    @keyframes show1 {
+      0%, 20% { opacity: 1; }
+      25%, 100% { opacity: 0; }
+    }
+
+    @keyframes show2 {
+      0%, 20% { opacity: 0; }
+      25%, 45% { opacity: 1; }
+      50%, 100% { opacity: 0; }
+    }
+
+    @keyframes show3 {
+      0%, 45% { opacity: 0; }
+      50%, 70% { opacity: 1; }
+      75%, 100% { opacity: 0; }
+    }
+
+    @keyframes show4 {
+      0%, 70% { opacity: 0; }
+      75%, 95% { opacity: 1; }
+      100% { opacity: 0; }
+    }
+  </style>
+
+  <text
+    x="600"
+    y="85"
+    text-anchor="middle"
+    class="name">
+    FELIPPE LEITE
+  </text>
+
+  <text
+    x="600"
+    y="125"
+    text-anchor="middle"
+    class="role">
+    BACKEND DEVELOPER
+  </text>
+
+  <text
+    x="600"
+    y="180"
+    text-anchor="middle"
+    class="tech tech1">
+    Java
+  </text>
+
+  <text
+    x="600"
+    y="180"
+    text-anchor="middle"
+    class="tech tech2">
+    Node.js
+  </text>
+
+  <text
+    x="600"
+    y="180"
+    text-anchor="middle"
+    class="tech tech3">
+    TypeScript
+  </text>
+
+  <text
+    x="600"
+    y="180"
+    text-anchor="middle"
+    class="tech tech4">
+    React
+  </text>
+
+  <text
+    x="600"
+    y="220"
+    text-anchor="middle"
+    font-family="Arial, Helvetica, sans-serif"
+    font-size="14"
+    fill="#666666">
+    Software Development • Cyber Security
+  </text>
+
+</svg>

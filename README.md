@@ -2,6 +2,9 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=150&pause=2500&deleteSpeed=80&color=000000&center=true&vCenter=true&width=800&lines=FELIPPE+LEITE;BACKEND+DEVELOPER;Java+%E2%80%A2+Node.js+%E2%80%A2+TypeScript+%E2%80%A2+React)](https://git.io/typing-svg)
 
+🎓 Systems Analysis and Development student • 💻 Software Development Intern  
+🔐 Interested in Cyber Security and Secure Development
+
 </div>
 
 ## 🛠️ Technologies & Tools

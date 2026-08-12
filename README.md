@@ -58,4 +58,4 @@ explorando diferentes tecnologias e conceitos de desenvolvimento de software.
 
 ## 📫 Contato
 
-- 💼 LinkedIn: [Felippe Leite](SEU_LINKEDIN)
+- 💼 Linkedin: [Felippe Leite](https://www.linkedin.com/in/felippeleite27/)

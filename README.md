@@ -1,16 +1,61 @@
-## Hi there 👋
+# Olá! Eu sou o Felippe Leite 👋
 
-<!--
-**felippe-leite/felippe-leite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+💻 Estagiário em Desenvolvimento de Software  
+☕ Atualmente aprofundando meus conhecimentos em Java  
+🔐 Interessado em Cyber Security e Desenvolvimento Seguro
 
-Here are some ideas to get you started:
+Busco evoluir constantemente minhas habilidades em desenvolvimento de software,
+boas práticas e qualidade de código, construindo soluções eficientes, bem
+estruturadas e confiáveis.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias e Ferramentas
+
+### Backend
+- Java
+- Node.js
+- TypeScript
+- APIs REST
+
+### Frontend
+- React
+- TypeScript
+
+### Banco de Dados
+- MySQL
+- DBeaver
+
+### DevOps e Ferramentas
+- Docker
+- Git
+- GitHub
+- Postman
+
+### Integrações
+- AssemblyAI API
+
+## 🚀 Sobre mim
+
+- 🎓 Atualmente no 3º semestre de Análise e Desenvolvimento de Sistemas
+- 💼 Estagiário em Desenvolvimento de Software
+- 🌱 Aprofundando meus estudos em Java
+- 🔐 Tenho interesse em Cyber Security
+- 🧠 Busco aprimorar minhas práticas de desenvolvimento e qualidade de código
+- 🚀 Gosto de aprender novas tecnologias e colocá-las em prática através de projetos
+
+## 📚 Atualmente estudando
+
+- Java
+- Boas práticas de desenvolvimento
+- Arquitetura e organização de software
+- Desenvolvimento seguro
+- Cyber Security
+
+## 📌 Projetos
+
+Aqui você encontrará projetos desenvolvidos durante minha jornada de aprendizado,
+explorando diferentes tecnologias e conceitos de desenvolvimento de software.
+
+## 📫 Contato
+
+- 💼 LinkedIn: [Felippe Leite](SEU_LINKEDIN)

@@ -30,7 +30,7 @@ const felippe = {
 
 ---
 
-## 🪐 Constellation of Projects
+## 🪐 Projects
 
 <table>
   <tr>
@@ -65,7 +65,7 @@ const felippe = {
 
 ---
 
-## 🔭 Tech Universe
+## 🔭 Tech
 
 <div align="center">
 

@@ -38,17 +38,13 @@ const felippe = {
       <h3>🌑 Eclipse</h3>
       <sub><b>Process Evaluation & Workflow System</b> · DPDF</sub>
       <p>Full backend rewrite on <b>self-hosted Supabase</b>, deployed and managed on a VPS with Easypanel. Data access secured with <b>PostgreSQL RLS & policies</b>, plus cryptographic <b>digital document signing</b> with node-forge.</p>
-      <img src="https://img.shields.io/badge/Supabase-0D1117?style=flat-square&logo=supabase&logoColor=3ECF8E"/>
-      <img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=4169E1"/>
-      <img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&logo=docker&logoColor=2496ED"/>
+      <img height="32" src="https://skillicons.dev/icons?i=supabase,postgres,docker,linux&theme=dark"/>
     </td>
     <td width="50%" valign="top">
       <h3>✨ Orion</h3>
       <sub><b>Audio & Video Transcription System</b> · DPDF</sub>
       <p>Automatic transcription through the <b>AssemblyAI API</b> with <b>speaker diarization</b>, and automatic <b>PDF generation</b> from the transcripts.</p>
-      <img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=339933"/>
-      <img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB"/>
-      <img src="https://img.shields.io/badge/MySQL-0D1117?style=flat-square&logo=mysql&logoColor=4479A1"/>
+      <img height="32" src="https://skillicons.dev/icons?i=nodejs,react,mysql&theme=dark"/>
     </td>
   </tr>
   <tr>
@@ -56,14 +52,13 @@ const felippe = {
       <h3>🛰️ Asset Management System</h3>
       <sub><b>Internal web application</b> · DPDF</sub>
       <p>Maintenance and evolution of the internal asset management platform: bug fixes, maintenance tasks and new features.</p>
-      <img src="https://img.shields.io/badge/Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=339933"/>
-      <img src="https://img.shields.io/badge/React-0D1117?style=flat-square&logo=react&logoColor=61DAFB"/>
+      <img height="32" src="https://skillicons.dev/icons?i=nodejs,react&theme=dark"/>
     </td>
     <td width="50%" valign="top">
       <h3>🌠 Personal Portfolio</h3>
       <sub><b>felippeleite.vercel.app</b></sub>
       <p>My corner of the galaxy — projects and professional journey, deployed on Vercel.</p>
-      <a href="https://felippeleite.vercel.app"><img src="https://img.shields.io/badge/Visit-0D1117?style=flat-square&logo=vercel&logoColor=white"/></a>
+      <a href="https://felippeleite.vercel.app"><img height="32" src="https://skillicons.dev/icons?i=vercel&theme=dark"/></a>
     </td>
   </tr>
 </table>
@@ -74,27 +69,14 @@ const felippe = {
 
 <div align="center">
 
-**Backend**<br/>
-<img src="https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=ED8B00"/>
-<img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=339933"/>
-<img src="https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6"/>
-<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
+**Backend** &nbsp;·&nbsp; **Frontend**<br/><br/>
+<img src="https://skillicons.dev/icons?i=java,nodejs,ts,js,react&theme=dark" />
 
-**Frontend**<br/>
-<img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<br/><br/>**Databases**<br/><br/>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,supabase&theme=dark" />
 
-**Databases**<br/>
-<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
-<img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
-<img src="https://img.shields.io/badge/Supabase-0D1117?style=for-the-badge&logo=supabase&logoColor=3ECF8E"/>
-
-**Infra & Tools**<br/>
-<img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED"/>
-<img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624"/>
-<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032"/>
-<img src="https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
-<img src="https://img.shields.io/badge/DBeaver-0D1117?style=for-the-badge&logo=dbeaver&logoColor=A5B4FC"/>
-<img src="https://img.shields.io/badge/Vercel-0D1117?style=for-the-badge&logo=vercel&logoColor=white"/>
+<br/><br/>**Infra & Tools**<br/><br/>
+<img src="https://skillicons.dev/icons?i=docker,linux,git,postman,vercel&theme=dark" />
 
 </div>
 
@@ -114,8 +96,8 @@ const felippe = {
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A5B4FC&icon_color=C084FC&text_color=E2E8F0&ring_color=7C3AED" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&hide_border=true&bg_color=0D1117&title_color=A5B4FC&text_color=E2E8F0" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=felippe-leite&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A5B4FC&icon_color=C084FC&text_color=E2E8F0&ring_color=7C3AED" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felippe-leite&layout=compact&hide_border=true&bg_color=0D1117&title_color=A5B4FC&text_color=E2E8F0" />
 
 </div>
 
@@ -125,9 +107,13 @@ const felippe = {
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/felippeleite27/"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2"/></a>
-<a href="https://felippeleite.vercel.app"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-<a href="mailto:felippeleite627@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
+<a href="https://www.linkedin.com/in/felippeleite27/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" /></a>
+&nbsp;
+<a href="mailto:felippeleite627@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" /></a>
+&nbsp;
+<a href="https://felippeleite.vercel.app"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" /></a>
+
+<sub>LinkedIn &nbsp;•&nbsp; Email &nbsp;•&nbsp; Portfolio</sub>
 
 </div>
 

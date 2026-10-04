@@ -30,7 +30,7 @@ const felippe = {
 
 ---
 
-## 🪐 Projects
+## 🪐 Projects from my internship
 
 <table>
   <tr>

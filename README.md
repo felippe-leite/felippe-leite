@@ -30,41 +30,6 @@ const felippe = {
 
 ---
 
-## 🪐 Projects from my internship
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🌑 Eclipse</h3>
-      <sub><b>Process Evaluation & Workflow System</b> · DPDF</sub>
-      <p>Full backend rewrite on <b>self-hosted Supabase</b>, deployed and managed on a VPS with Easypanel. Data access secured with <b>PostgreSQL RLS & policies</b>, plus cryptographic <b>digital document signing</b> with node-forge.</p>
-      <img height="32" src="https://skillicons.dev/icons?i=supabase,postgres,docker,linux&theme=dark"/>
-    </td>
-    <td width="50%" valign="top">
-      <h3>✨ Orion</h3>
-      <sub><b>Audio & Video Transcription System</b> · DPDF</sub>
-      <p>Automatic transcription through the <b>AssemblyAI API</b> with <b>speaker diarization</b>, and automatic <b>PDF generation</b> from the transcripts.</p>
-      <img height="32" src="https://skillicons.dev/icons?i=nodejs,react,mysql&theme=dark"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🛰️ Asset Management System</h3>
-      <sub><b>Internal web application</b> · DPDF</sub>
-      <p>Maintenance and evolution of the internal asset management platform: bug fixes, maintenance tasks and new features.</p>
-      <img height="32" src="https://skillicons.dev/icons?i=nodejs,react&theme=dark"/>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🌠 Personal Portfolio</h3>
-      <sub><b>felippeleite.vercel.app</b></sub>
-      <p>My corner of the galaxy — projects and professional journey, deployed on Vercel.</p>
-      <a href="https://felippeleite.vercel.app"><img height="32" src="https://skillicons.dev/icons?i=vercel&theme=dark"/></a>
-    </td>
-  </tr>
-</table>
-
----
-
 ## 🔭 Tech
 
 <div align="center">
@@ -98,6 +63,14 @@ const felippe = {
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=felippe-leite&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A5B4FC&icon_color=C084FC&text_color=E2E8F0&ring_color=7C3AED" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felippe-leite&layout=compact&hide_border=true&bg_color=0D1117&title_color=A5B4FC&text_color=E2E8F0" />
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/felippe-leite/felippe-leite/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/felippe-leite/felippe-leite/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man eating my contribution graph" src="https://raw.githubusercontent.com/felippe-leite/felippe-leite/output/pacman-contribution-graph-dark.svg">
+</picture>
 
 </div>
 

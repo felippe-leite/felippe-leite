@@ -9,7 +9,7 @@
 
 <br/>
 
-🎓 Systems Analysis & Development student &nbsp;•&nbsp; 💻 Software Engineer Intern @ DPDF &nbsp;•&nbsp; 📍 Brasília, BR
+🎓 Systems Analysis & Development/Software Engineer student &nbsp;•&nbsp; 💻 Software Engineer Intern @ DPDF &nbsp;•&nbsp; 📍 Brasília, BR
 
 </div>
 
@@ -19,10 +19,10 @@
 
 ```ts
 const felippe = {
-  role: "Backend Developer (in training)",
+  role: "Full-stack Developer",
   currentOrbit: "Software Engineer Intern @ Defensoria Pública do DF",
   stack: ["Java", "TypeScript", "Node.js", "React", "PostgreSQL", "MySQL"],
-  focus: ["REST APIs", "Supabase self-hosted", "Row Level Security", "Digital signatures"],
+  focus: ["REST APIs", "Supabase self-hosted", "Row Level Security"],
   exploring: ["Secure Development", "Software Architecture", "Pentest (controlled labs)"],
   languages: { portuguese: "native", english: "B1" },
 };
